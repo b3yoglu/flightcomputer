@@ -10,3 +10,6 @@ EBAT:Genişlik: 70mm - Uzunluk: 120mm
 Herhangi bir yazılım ekleme gereği duymadım, çünkü kullanılan projeye göre bu tamamen değişiklik gösterebilir. Bu sensör ve modüller için birçok örnek kod bulunmaktadır, kolayca derlenebilir.
 
 //Beyoğlu
+
+![alt text](https://raw.githubusercontent.com/b3yoglu/flightcomputer/master/demo.png)
+
